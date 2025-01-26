@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "shortname": "smartphone",
+      "description": "Lorem ipsum dolor sit amet.",
+      "price": "$699",
+      "image": "https://place-hold.it/200x200?text=Smartphone"
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "shortname": "laptop",
+      "description": "Lorem ipsum dolor sit amet.",
+      "price": "$999",
+      "image": "https://place-hold.it/200x200?text=Laptop"
+    }
+  ]
+  
