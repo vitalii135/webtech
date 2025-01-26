@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pixel Hunt</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 50px;
+    }
+    #gameArea {
+      margin: 20px auto;
+      width: 400px;
+      height: 400px;
+      position: relative;
+      border: 1px solid #000;
+      background-color: #f0f0f0;
+    }
+    .square {
+      width: 50px;
+      height: 50px;
+      position: absolute;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>Pixel Hunt</h1>
+
+  <div>
+    <label for="difficulty">Choose difficulty: </label>
+    <select id="difficulty">
+      <option value="normal">Normal</option>
+      <option value="hard">Hard</option>
+      <option value="extreme">Extreme</option>
+    </select>
+
+    <label for="color">Choose color: </label>
+    <select id="color">
+      <option value="red">Red</option>
+      <option value="green">Green</option>
+      <option value="blue">Blue</option>
+    </select>
+
+    <button id="startButton">Start</button>
+  </div>
+
+  <div>
+    <p>Score: <span id="score">0</span></p>
+    <p>Time left for click: <span id="timer">0</span></p>
+  </div>
+
+  <div id="gameArea"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
