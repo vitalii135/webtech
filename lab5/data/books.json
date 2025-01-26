@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "name": "The Great Gatsby",
+      "shortname": "gatsby",
+      "description": "A classic novel by F. Scott Fitzgerald.",
+      "price": "$14.99",
+      "image": "https://place-hold.it/200x200?text=The+Great+Gatsby"
+    },
+    {
+      "id": 2,
+      "name": "1984",
+      "shortname": "1984",
+      "description": "A dystopian novel by George Orwell.",
+      "price": "$12.99",
+      "image": "https://place-hold.it/200x200?text=1984"
+    },
+    {
+      "id": 3,
+      "name": "To Kill a Mockingbird",
+      "shortname": "mockingbird",
+      "description": "A novel by Harper Lee.",
+      "price": "$9.99",
+      "image": "https://place-hold.it/200x200?text=Mockingbird"
+    },
+    {
+      "id": 4,
+      "name": "The Catcher in the Rye",
+      "shortname": "catcher",
+      "description": "A novel by J.D. Salinger.",
+      "price": "$11.99",
+      "image": "https://place-hold.it/200x200?text=Catcher"
+    }
+  ]
+  
