@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "name": "T-Shirt",
+      "shortname": "tshirt",
+      "description": "Comfortable cotton t-shirt.",
+      "price": "$19.99",
+      "image": "https://place-hold.it/200x200?text=T-Shirt"
+    },
+    {
+      "id": 2,
+      "name": "Jeans",
+      "shortname": "jeans",
+      "description": "Stylish blue jeans.",
+      "price": "$49.99",
+      "image": "https://place-hold.it/200x200?text=Jeans"
+    },
+    {
+      "id": 3,
+      "name": "Jacket",
+      "shortname": "jacket",
+      "description": "Warm and durable jacket.",
+      "price": "$89.99",
+      "image": "https://place-hold.it/200x200?text=Jacket"
+    },
+    {
+      "id": 4,
+      "name": "Sneakers",
+      "shortname": "sneakers",
+      "description": "Lightweight running shoes.",
+      "price": "$59.99",
+      "image": "https://place-hold.it/200x200?text=Sneakers"
+    }
+  ]
+  
